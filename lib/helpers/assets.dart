@@ -1,0 +1,34 @@
+class AppImages {
+  static String bg = "assets/images/bg.png";
+  static String logowhite = "assets/images/logo_white.png";
+  static String logo = "assets/images/logo.png";
+  static String bgImage = "assets/images/bgImage.png";
+  static String openedeye = "assets/images/opened_eye.png";
+  static String closedeye = "assets/images/closed_eye.png";
+  static String notificationIcon = "assets/images/Notification_Icon.png";
+  static String filterIcon = "assets/images/filter.png";
+  static String homeActive = "assets/images/home_active.png";
+  static String chatIcon = "assets/images/Chat_Icon.png";
+  static String loveIcon = "assets/images/Love_Icon.png";
+  static String profileIcon = "assets/images/Profile_Icon.png";
+  static String heartgrey = "assets/images/heartgrey.png";
+  static String image1 = "assets/images/image1.png";
+  static String image2 = "assets/images/image2.png";
+  static String image3 = "assets/images/image3.png";
+  static String image4 = "assets/images/image4.png";
+  static String image5 = "assets/images/image5.png";
+  static String image6 = "assets/images/image6.png";
+  static String image7 = "assets/images/image7.png";
+  static String image8 = "assets/images/image8.png";
+  static String image9 = "assets/images/image9.png";
+  static String image10 = "assets/images/image10.png";
+  static String image11 = "assets/images/image11.png";
+  static String image12 = "assets/images/image12.png";
+  static String image13 = "assets/images/image13.png";
+  static String image14 = "assets/images/image14.png";
+  static String image15 = "assets/images/image15.png";
+  static String image16 = "assets/images/image16.png";
+  static String locationIcon = "assets/images/Location_Icon.png";
+  static String loveIconActive = "assets/images/Love_Icon_Active.png";
+  static String homeIcon = "assets/images/Home_Icon.png";
+}
